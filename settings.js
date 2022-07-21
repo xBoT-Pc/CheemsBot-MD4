@@ -55,17 +55,17 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94711927471'] //ur owner number
-global.ownername = "🦄XBoT PC ( Vishal )" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ownername = "Ｌᴜᴄɪꜰᴇʀ Ｃᴛɴ ( Vishal )" //ur owner name
+global.ytname = "YT:LUCIFER FF" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['94711927471']
 global.ownertag = '94711927471' //ur tag number
-global.botname = 'XBot MD ' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botname = 'Ｌᴜᴄɪꜰᴇʀ' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UCN84tq88WjkHal06nfy5ALQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://drive.google.com/drive/my-drive" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94764212954'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
